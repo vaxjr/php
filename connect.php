@@ -9,7 +9,7 @@
  *  $dbUser is your database user name such as 'lois_lane'
  *  $dbPwd is your database password such as 'dailyPlan3t!'
  *    For a remote database connection do not include the password.
- *    To avoid security issues, add some code to prompt for the password.
+ *    To avoid security issues, add some code to prompt for the password. 
  * 
  */
  
